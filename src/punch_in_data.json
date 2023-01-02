@@ -1,0 +1,107 @@
+[
+  {
+    "subjectId": "1001641265120727001760000000001",
+    "subjectType": "multiSelect",
+    "simpleFill": null,
+    "signleSelect": null,
+    "signleSelectOutSideOptions": null,
+    "multiSelect": {
+      "optionAnswerList": [
+        {
+          "beSelectValue": "NotThing",
+          "fillContent": "",
+          "imgList": null,
+          "attachmentList": null
+        }
+      ]
+    },
+    "location": null,
+    "area": null,
+    "date": null
+  },
+  {
+    "subjectId": "1001641265120735001760000000001",
+    "subjectType": "location",
+    "simpleFill": null,
+    "signleSelect": null,
+    "signleSelectOutSideOptions": null,
+    "multiSelect": null,
+    "location": {
+      "address": "\u5e7f\u5357\u53bf\u4eba\u6c11\u653f\u5e9c",
+      "province": "\u4e91\u5357\u7701",
+      "city": "\u6587\u5c71\u58ee\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde",
+      "street": "\u83b2\u57ce\u9547",
+      "longitude": "105.05516",
+      "latitude": "24.04645",
+      "locationRangeId": "1001639551775320000050000000001",
+      "deviationDistance": 238943,
+      "area": "\u5e7f\u5357\u53bf"
+    },
+    "area": null,
+    "date": null
+  },
+  {
+    "subjectId": "1001641520558478002960000000001",
+    "subjectType": "signleSelect",
+    "simpleFill": null,
+    "signleSelect": {
+      "beSelectValue": "2",
+      "fillContent": "",
+      "imgList": null,
+      "attachmentList": null
+    },
+    "signleSelectOutSideOptions": null,
+    "multiSelect": null,
+    "location": null,
+    "area": null,
+    "date": null
+  },
+  {
+    "subjectId": "1001641520609587002900000000001",
+    "subjectType": "signleSelect",
+    "simpleFill": null,
+    "signleSelect": {
+      "beSelectValue": "2",
+      "fillContent": "",
+      "imgList": null,
+      "attachmentList": null
+    },
+    "signleSelectOutSideOptions": null,
+    "multiSelect": null,
+    "location": null,
+    "area": null,
+    "date": null
+  },
+  {
+    "subjectId": "1001642750163964005360000000001",
+    "subjectType": "signleSelect",
+    "simpleFill": null,
+    "signleSelect": {
+      "beSelectValue": "flag1646985570827",
+      "fillContent": "",
+      "imgList": null,
+      "attachmentList": null
+    },
+    "signleSelectOutSideOptions": null,
+    "multiSelect": null,
+    "location": null,
+    "area": null,
+    "date": null
+  },
+  {
+    "subjectId": "1001646985729226012700000000001",
+    "subjectType": "signleSelect",
+    "simpleFill": null,
+    "signleSelect": {
+      "beSelectValue": "1",
+      "fillContent": "",
+      "imgList": null,
+      "attachmentList": null
+    },
+    "signleSelectOutSideOptions": null,
+    "multiSelect": null,
+    "location": null,
+    "area": null,
+    "date": null
+  }
+]
